@@ -7,6 +7,8 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.44
 )
 
+require github.com/golang-jwt/jwt/v5 v5.3.1 // indirect
+
 require (
 	github.com/bytedance/gopkg v0.1.4 // indirect
 	github.com/bytedance/sonic v1.15.1 // indirect
