@@ -1,10 +1,10 @@
 POST http://localhost:8080/events
 Content-Type: application/json
-Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IlNyaWthbnRoQGtpbmcuY29tIiwiZXhwIjoxNzgwMTU5NjM4LCJ1c2VySWQiOjB9.PdCuLVaCxxBeUPRN2fSypfXU_cpB1RsbDO8DrH-PP84
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IlNyaWxla2hhQGtpbmcuY29tIiwiZXhwIjoxNzgwMTYwNjU4LCJ1c2VySWQiOjJ9.3vcrqCyKe3xpogQeu1PNzzWyjXGkUZsB8vg0dKl30cI
 
 {
-    "name" : "Test Event1",
+    "name" : "Test Event3",
     "description" : "Test Description",
-    "location" : "Bengaluru",
+    "location" : "Hyderabad",
     "dateTime" : "2025-01-21T15:30:35.000Z"
 }
